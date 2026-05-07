@@ -1,5 +1,3 @@
-setwd("~/Documents/Year 3 /Dissertation")
-
 # 1. Load Packages 
 
 library(SummarizedExperiment)
